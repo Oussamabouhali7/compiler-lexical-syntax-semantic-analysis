@@ -47,7 +47,8 @@ It handles checks such as:
 
 ## 🏗️ Architecture
 
-      ```text
+      ```
+          text
       Source Code
            │
            ▼
