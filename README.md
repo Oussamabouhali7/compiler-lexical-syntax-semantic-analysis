@@ -47,10 +47,10 @@ It handles checks such as:
 
 ## 🏗️ Architecture
 
-```text
-Source Code
-     │
-     ▼
+      ```text
+      Source Code
+           │
+           ▼
 ┌─────────────────────┐
 │ Lexical Analysis    │
 │ Tokenization        │
