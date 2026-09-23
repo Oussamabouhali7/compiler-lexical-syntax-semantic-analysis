@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733180416 source:c:\users\user\desktop\oussama ensi\techniques de compilation\projet tc\analyse semantique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
