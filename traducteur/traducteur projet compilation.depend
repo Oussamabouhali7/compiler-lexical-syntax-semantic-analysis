@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736413686 source:c:\users\user\desktop\oussama ensi\techniques de compilation\projet tc\traducteur projet compilation\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
